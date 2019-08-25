@@ -1,2 +1,1 @@
-# AlgorthmsAndDataStructures
-This project is expected to have general challenging programming questions related Algorithms and Data structures.All solutions are written in java. 
+This project will be having all commonly asked programming interview questions. Most of them will try to cover wide varieties of algorithms, data structures and other challenging questions. All of the solutions are written in java.
